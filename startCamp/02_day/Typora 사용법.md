@@ -59,7 +59,6 @@ ctrl + / 누르면 코딩으로 표현 가능
   1. number list
   2. number list
 
-[TOC]
 
 [대괄호 열고 [TOC]를 누르면 목차가 생김]
 
